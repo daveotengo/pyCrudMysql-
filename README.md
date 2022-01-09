@@ -1,2 +1,2 @@
 # pyCrudMysql-
-Crud API connect to mysql using python with flask
+Crud API connect to mysql database using python with flask
